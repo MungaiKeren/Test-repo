@@ -17,4 +17,4 @@ tail(csv_data, 2)
 csv_data[47,1]
 csv_data[47, "Ozone"]
 
-# missing values in the ozone colu
+# missing values in the ozone column
